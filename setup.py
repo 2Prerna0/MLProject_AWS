@@ -22,7 +22,7 @@ version = '0.0.1',
 author = 'Prerna',
 author_email = 'prernaprashar7170@gmail.com',
 packages = find_packages(),
-install_requires = get_requirements('requirement.txt')
+install_requires = get_requirements('requirements.txt')
     
 
 )
